@@ -6,7 +6,7 @@ int main()
 	return 0;
 }
 
-void func(void)
+int func(void)
 {
-	
+	return 0;
 }
